@@ -1,0 +1,6 @@
+# jsquery extension
+comment = 'test module'
+default_version = '1.0'
+module_pathname = '$libdir/jsonb_extra'
+relocatable = true
+
